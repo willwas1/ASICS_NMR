@@ -13,7 +13,7 @@ visualisation (e.g. GraphPad).
 The pipeline runs end to end in a single script and produces two complementary
 quantification layers:
 
-1. **Manual qHNMR panel (defensible absolutes).** 30 metabolites quantified from
+1. **Manual qHNMR panel .** 30 metabolites quantified from
    resolved reporter peaks, anchored to the TSP internal standard (0.01% w/v).
    Library-independent and confidence-tiered (high / moderate / upper-bound).
    **This is the layer to report.**
@@ -22,9 +22,6 @@ quantification layers:
    Wide coverage but absolute values carry scaling error — **use for relative,
    pathway-level interpretation, not for standalone absolute numbers.**
 
-> **Interpretation principle:** where the two layers overlap, trust the manual panel.
-> Cross-validation confirmed ASICS values are "wrong but trending" — reliable for
-> trends, not for absolute concentrations.
 
 ## Pipeline stages
 
