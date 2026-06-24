@@ -103,7 +103,7 @@ A ready-to-edit template is provided: asics_dilution.csv
 Set `META_FILE` to a CSV with a `sample` column plus any of `condition`, `time_h`,
 `biorep`. Column-name normalisation is forgiving (it auto-corrects a few common typos),
 and missing optional columns are filled with sensible defaults.
-Template: [`metadata_template.csv`](metadata_template.csv).
+
 
 ## Running
 
