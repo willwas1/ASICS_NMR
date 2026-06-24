@@ -96,7 +96,7 @@ sample,dilution_factor
 - `dilution_factor` is the prep-specific factor (e.g. `1.1` for 500:50, `5.5` for 1:4.5).
 - Any sample not listed inherits `DEFAULT_DF`.
 
-A ready-to-edit template is provided: [`DILUTION_FILE_template.csv`](DILUTION_FILE_template.csv).
+A ready-to-edit template is provided: asics_dilution.csv
 
 ### Metadata file (optional)
 
